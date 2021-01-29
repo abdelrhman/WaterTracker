@@ -16,7 +16,7 @@ android {
         versionCode 1
         versionName "1.0"
 
-        testInstrumentationRunner "com.abdelrahman.watertracker.CustomTestRunner"
+        testInstrumentationRunner "com.abdelrahman.watertracker.TestRunner"
     }
 
     compileOptions {
